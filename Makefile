@@ -1,4 +1,4 @@
 init:
 	npm i
-	cp ./src/config/twitter_config_template.js ./src/config/twitter_config.js
+	cp -rp src/config/twitter_config_template.json src/config/twitter_config.json
 	npm link
