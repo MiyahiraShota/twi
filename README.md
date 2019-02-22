@@ -5,7 +5,7 @@
 
 ## 初期設定
 
-- configをつくる
+### configをつくる
 `src/config/twitter_config_template.json`をコピーして
 `src/config/twitter_config.json`を生成
 
@@ -16,7 +16,7 @@ cp -r src/config/twitter_config_template.json src/config/twitter_config.json
 twitterのアクセストークンを入力してください
 ここもプログラムでできたらいいね
 
-- npm？の設定
+### npm？の設定
 ```
 $ npm install
 $ npm link
