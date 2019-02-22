@@ -1,5 +1,5 @@
 const prompts = require("prompts");
-const Twitter = require('twitter');
+const Twitter = require("twitter");
 const TwiConfig = require('./config/twitter_config.json');
 
 class Twi {
